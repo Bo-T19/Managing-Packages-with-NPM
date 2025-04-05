@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Santiago Botero",
+	"keywords": [ "Node", "Javascript", "freecodecamp" ],
 	"description": "A project for my leaning path on Node JS",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
